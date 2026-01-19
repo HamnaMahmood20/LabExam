@@ -1,4 +1,7 @@
 # Local .terraform directories
+*.swp
+
+
 .terraform/
 
 # .tfstate files
